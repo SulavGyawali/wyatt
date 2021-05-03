@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 import random
-
+#hello
 
 client = commands.Bot(command_prefix='"')
 client.remove_command('help')
@@ -12,7 +12,7 @@ link=["https://i.redd.it/2ioociazg5o61.jpg","https://i.redd.it/l9cp8y6wa7o61.jpg
     ]
 
 
-filtered_words = ['porn']
+filtered_words = ['']
 client.owner_id = 709314105126682716
 
 @client.event
