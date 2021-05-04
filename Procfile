@@ -1,1 +1,1 @@
-worker:python wyatt.py
+worker: python wyatt.py
