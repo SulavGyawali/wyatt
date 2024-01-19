@@ -212,5 +212,5 @@ async def membercount(cxt, member : discord.Member = None):
     embed= discord.Embed(title= 'Members', description= member.guild.member_count)
     await cxt.send(embed=embed)
 
-client.run('NzEwMDE4MjUwMTI5Mjc2OTc5.XruWBg.FjkespfusxNv8njGMTexn5Kr6B0')
+client.run('')
 
